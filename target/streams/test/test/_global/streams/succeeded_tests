@@ -1,0 +1,6 @@
+#Successful Tests
+#Tue May 13 23:46:44 GMT+03:00 2025
+conv.DepthwiseConvSpec=1747169201079
+conv.DotProductSpec=1747169204558
+conv.PointwiseConvSpec=1747169201469
+conv.RegularConvSpec=1747169201822
