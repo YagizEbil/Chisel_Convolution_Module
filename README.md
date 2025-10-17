@@ -13,7 +13,7 @@ This repository contains the hardware design, software references, and lab docum
 
 ## Repository Structure
 ```
-ee310_lab4_yagizebil/
+Chisel_Convolution_Module/
 ├── build.sbt                         # sbt project definition and Chisel/ScalaTest dependencies
 ├── project/build.properties          # sbt version pin
 ├── src/main/scala/conv/Conv.scala    # Depthwise, pointwise, and regular convolution hardware
